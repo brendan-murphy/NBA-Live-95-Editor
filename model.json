@@ -1,0 +1,66 @@
+{
+    "teamMenuAddressStart": 229070,
+    "teamDataAddresses":[
+        261812,
+        262938,
+        264072
+    ],
+    "teamData": [
+        {
+            "name": "scoring",
+            "dataType": "byte",
+            "offset": 69
+        },
+        {
+            "name": "rebounds",
+            "dataType": "byte",
+            "offset": 70
+        },
+        {
+            "name": "ballControll",
+            "dataType": "byte",
+            "offset": 71
+        },
+        {
+            "name": "defense",
+            "dataType": "byte",
+            "offset": 72
+        },
+        {
+            "name": "overall",
+            "dataType": "byte",
+            "offset": 73
+        },
+        {
+            "name": "backgroundColor",
+            "dataType": "byte",
+            "offset": 75
+        },
+        {
+            "name": "bannerColor",
+            "dataType": "byte",
+            "offset": 76
+        },
+        {
+            "name": "initials",
+            "dataType": "stringFixed",
+            "offset": 64,
+            "length": 4
+        },
+        {
+            "name": "courtLocation",
+            "dataType": "stringVariable",
+            "offset": 60
+        },
+        {
+            "name": "location",
+            "dataType": "stringVariable",
+            "offset": 52
+        },
+        {
+            "name":"name",
+            "dataType": "stringVariable",
+            "offset": 48
+        }
+    ]
+}
